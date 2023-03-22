@@ -1,4 +1,4 @@
-# Portfolio Operation Strategy (포트폴리오 운용 전략) : portfoli_stratagy.py
+# Portfolio Operation Strategy(포트폴리오 운용 전략) : portfoli_stratagy.py
 - 투자 철학 : 규칙에 기반한 투자
 - 투자 목적 : 좋은 주식을 매수
 - 학문적 기반 : 경제학, 통계학 등
@@ -33,7 +33,23 @@
 - 모든 지표에서 밸류에이션이 낮을 수록 장기적으로 수익률이 좋다.  
     즉, 가치주에 투자하는 것이 훨씬 수익률이 높다
 ### 한국의 주식중 각 value를 활용하여 저평가 데이터 20개 뽑기
-- ['BPS','PER','PBR','EPS','DIV','DPS']의 벨류에이션을 통한 저평가된 주식 20개 뽑기
+- ['BPS','PER','PBR','EPS','DIV','DPS']의 벨류에이션을 통한 저평가된 주식 20개 뽑기  
+
+
+
+
+
+# Momentum Strategy(모멘텀 전략)
+- 모멘텀이란 주가 혹은 이익의 추세  
+    즉, 상승 추세의 주식은 지속적으로 상승하며,
+    하락 추세의 주식은 지속적으로 하락하는 현상
+  
+    기업의 이익에 대한 추세를 나타내는 이익 모멘텀과
+    주가의 모멘텀에 대한 가격 모멘텀으로 구분
+  
+    일반적으로 과거 12개월 수익률이 높았던 종목이 계속해서 상승하는 현상을 모멘텀이라 함
+
+
 
 ### 참고 자료 및 출처
 - [헨리의 퀀트 대학](https://youtube.com/watch?v=g7lQvtF2SSs&si=EnSIkaIECMiOmarE)
