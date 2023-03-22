@@ -16,7 +16,7 @@ plt.rc('font', family='AppleGothic')
 plt.rc('axes', unicode_minus=False)
 
 df_pbr_vw = df_pbr[0].loc[:, ['Lo 20', 'Qnt 2', 'Qnt 3', 'Qnt 4', 'Hi 20']] # 5분위로 나눈 열만 선택한 후 저장
-df_pbr_cum = (1 + df_pbr_vw / 100).cumprod()
+df_pbr_cum = (1 + df_pbr_vw / 100).cumprod() # 누적 수익률 계산하기
 
 # 로그 그래프로 나타내기
 df_pbr_cum = np.log(1 + df_pbr_vw / 100).cumsum()
