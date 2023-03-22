@@ -53,6 +53,7 @@
 
 - momentum_stratagy_1.py 파일 : 1년간 누적 수익률 엑셀 파일 만들기 및 K-ratio 구하기
 - momentum_stratagy_2.py 파일 : 위 파일 이용하여 값 구하기
+<img src="../img/momentum_k-ratio.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
 
 
 
