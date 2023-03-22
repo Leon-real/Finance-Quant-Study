@@ -16,7 +16,7 @@
 
 
 ### 선형 회기 분석 그림 `reg.summary()` 설명
-<img src="../../img/PorfolioStratagy.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
+<img src="../img/PorfolioStratagy.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
 - 종속 변수 (y) : `Dep. Variable` 부분  
 - 베타 : `coef` 부분  
 - t-통계값 : `t` 부분 => 절대값이 2보다 크면 통계적으로 유의함
