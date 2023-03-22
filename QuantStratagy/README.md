@@ -16,6 +16,7 @@
 
 
 ### 선형 회기 분석 그림 `reg.summary()` 설명
+<img src="../img/PorfolioStratagy.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
 - 종속 변수 (y) : `Dep. Variable` 부분  
 - 베타 : `coef` 부분  
 - t-통계값 : `t` 부분 => 절대값이 2보다 크면 통계적으로 유의함
@@ -49,7 +50,7 @@
   
     일반적으로 과거 12개월 수익률이 높았던 종목이 계속해서 상승하는 현상을 모멘텀이라 함  
 
-- momentum_stratagy_1.py 파일 : 1년간 누적 수익률 엑셀 파일 만들기
+- momentum_stratagy_1.py 파일 : 1년간 누적 수익률 엑셀 파일 만들기 및 K-ratio 구하기
 - momentum_stratagy_2.py 파일 : 위 파일 이용하여 값 구하기
 
 
