@@ -35,3 +35,4 @@
 ### 참고 자료 및 출처
 - [헨리의 퀀트 대학](https://youtube.com/watch?v=g7lQvtF2SSs&si=EnSIkaIECMiOmarE)
 - [French Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+    - 프렌치 라이브러리에는 (B/M(PBR), E/P(PER), CF/P(PCR)) 데이터도 존재
