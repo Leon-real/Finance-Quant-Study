@@ -31,14 +31,15 @@
     반면 인간은 익숙한 것을 안전하다고 착각하는 경향이 있음  
     최근 성과가 좋은 주식은 여러 매체를 통해 접하기 쉽고, 이런 주식을 안전하다고 착각해 많은 사람들이 매수함  
 ### 프렌치 라이브러리 활용한 데이터 차트 분석
+<img src="../img/ValueStratagy.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
+<img src="../img/ValueStratagy log chart.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
+
 - 모든 지표에서 밸류에이션이 낮을 수록 장기적으로 수익률이 좋다.  
     즉, 가치주에 투자하는 것이 훨씬 수익률이 높다
 ### 한국의 주식중 각 value를 활용하여 저평가 데이터 20개 뽑기
 - ['BPS','PER','PBR','EPS','DIV','DPS']의 벨류에이션을 통한 저평가된 주식 20개 뽑기  
   
-  
-  
-
+<img src="../img/ValueStratagy Korean Stocks.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
 
 # Momentum Strategy(모멘텀 전략) : momentum_stratagy_1.py, momentum_stratagy_2.py
 - 모멘텀이란 주가 혹은 이익의 추세  
