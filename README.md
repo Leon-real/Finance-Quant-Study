@@ -4,5 +4,7 @@ Finance Quant trading and analysis
 # Get Korea Stock Data
 
 # Portfolio Operation Strategy
-<img src="./img/PorfolioStratagy.png" width="600px" height="300px" title="Summary" alt="PorfolioStratagy"></img><br/>
+1. Portfoilo Opertation Strategy
+2. Value Strategy
+<img src="./img/PorfolioStrategy.png" width="600px" height="300px" title="Summary" alt="PorfolioStrategy"></img><br/>
 # Value stratagy
