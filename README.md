@@ -5,7 +5,7 @@ Finance Quant Trading and Analysis Repository
 - `Get_Korea_Stock_data.py`  
     한국 주식 데이터 수집 및 엑셀로 저장하기.  
     Saving Korea Stock infomations on excel.  
-    => [stocks.xlsx](stocks.xlsx)
+    => [stocks.xlsx](stocks.xlsx)  
     <img src="./img/SaveingKoreaStockData.png" width="200px" height="100px" title="stocks" alt="PorfolioStrategy"></img><br>
 
 # QuantStrategy Repository  
