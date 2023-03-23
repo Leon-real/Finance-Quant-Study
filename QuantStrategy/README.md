@@ -1,4 +1,4 @@
-# Portfolio Operation Strategy(포트폴리오 운용 전략) : portfoli_Strategy.py
+# 1. Portfolio Operation Strategy(포트폴리오 운용 전략) : portfoli_Strategy.py
 - 투자 철학 : 규칙에 기반한 투자
 - 투자 목적 : 좋은 주식을 매수
 - 학문적 기반 : 경제학, 통계학 등
@@ -21,7 +21,7 @@
 - 베타 : `coef` 부분  
 - t-통계값 : `t` 부분 => 절대값이 2보다 크면 통계적으로 유의함
 
-# 밸류 전략(가치주 전략) : value_Strategy.py, value_Strategy_krea_stock.py
+# 2. 밸류 전략(가치주 전략) : value_Strategy.py, value_Strategy_krea_stock.py
 - 가치주 효과 : 내재 가치 대비 낮은 가격의 주식(저PER, 저PBR등)이  
     내재 가치 대비 비싼 주식(고PER, 고PBR)보다 수익률이 높은 현상  
 - 가치주 효과가 발생하는 원인은 바로 사람들이 가치주를 기피하고 성장주를 선호하기 때문  
@@ -31,7 +31,7 @@
     반면 인간은 익숙한 것을 안전하다고 착각하는 경향이 있음  
     최근 성과가 좋은 주식은 여러 매체를 통해 접하기 쉽고, 이런 주식을 안전하다고 착각해 많은 사람들이 매수함  
 ### 프렌치 라이브러리 활용한 데이터 차트 분석
-<img src="../img/ValueStrategy.png" width="600px" height="300px" title="Summary" alt="PorfolioStrategy"></img><br/>
+<img src="../img/ValueStrategy.png" width="600px" height="300px" title="Summary" alt="Value_Strategy"></img><br/>
 <img src="../img/ValueStrategy log chart.png" width="600px" height="300px" title="Summary" alt="PorfolioStrategy"></img><br/>
 
 - 모든 지표에서 밸류에이션이 낮을 수록 장기적으로 수익률이 좋다.  
@@ -41,7 +41,7 @@
   
 <img src="../img/ValueStrategy Korean Stocks.png" width="600px" height="300px" title="Summary" alt="PorfolioStrategy"></img><br/>
 
-# Momentum Strategy(모멘텀 전략) : momentum_Strategy_1.py, momentum_Strategy_2.py
+# 3. Momentum Strategy(모멘텀 전략) : momentum_Strategy_1.py, momentum_Strategy_2.py
 - 모멘텀이란 주가 혹은 이익의 추세  
     즉, 상승 추세의 주식은 지속적으로 상승하며,  
     하락 추세의 주식은 지속적으로 하락하는 현상  
@@ -53,11 +53,11 @@
 
 - momentum_Strategy_1.py 파일 : 1년간 누적 수익률 엑셀 파일 만들기 및 K-ratio 구하기
 - momentum_Strategy_2.py 파일 : 위 파일 이용하여 값 구하기
-<img src="../img/momentum_k-ratio.png" width="600px" height="300px" title="Summary" alt="PorfolioStrategy"></img><br/>
+<img src="../img/momentum_k-ratio.png" width="600px" height="300px" title="Summary" alt="Momentum Strategy"></img><br/>
 
 
 
-### 참고 자료 및 출처
+# [기타] 참고 자료 및 출처
 - [헨리의 퀀트 대학](https://youtube.com/watch?v=g7lQvtF2SSs&si=EnSIkaIECMiOmarE)
 - [French Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
     - 프렌치 라이브러리에는 (B/M(PBR), E/P(PER), CF/P(PCR)) 데이터도 존재
