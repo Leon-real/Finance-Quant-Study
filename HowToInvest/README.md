@@ -35,7 +35,7 @@
 
 # 2. 최소분산
 - 목적함수만 최소분산에 해당하는 'MinRisk'로 변경  
-<img src="../img/MinRsik.png" width="600px" height="600px" title="min risk" alt="minrisk"></img><br/>  
+<img src="../img/MinRisk.png" width="600px" height="600px" title="min risk" alt="minrisk"></img><br/>  
 
 ## 최소분산 : 제약조건 추가하기
 - 모든 자산에 최소 투자비중 5%, 최대 투자비중 20% 제약조건을  설정하기  
