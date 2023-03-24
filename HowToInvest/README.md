@@ -51,4 +51,4 @@
 
 <img src="../img/Risk Parity Protfolio.png" width="600px" height="600px" title="Risk Parity" alt="riskparity1"></img><br/> 
 <img src="../img/Risk Parity Portfolio1.png" width="600px" height="600px" title="Risk Parity2" alt="riskparity2"></img><br/> 
-<img src="../img/Risk Parity Protfolio2.png" width="600px" height="600px" title="Risk Parity3" alt="riskparity3"></img><br/> 
+<img src="../img/Risk Parity Portfolio2.png" width="600px" height="600px" title="Risk Parity3" alt="riskparity3"></img><br/> 
