@@ -20,10 +20,10 @@ Look at the detail [Click](/QuantStrategy/)
   
 # HowToInvest Repository
 Look at the detail [Click](/HowToInvest/)  
-0. Optimization Portfolio
-1. Maximum Sharpe Ratio Portfolio
-2. Min Risk Portfolio
-3. Risk Parity Portfolio  
+1. Optimization Portfolio
+2. Maximum Sharpe Ratio Portfolio
+3. Min Risk Portfolio
+4. Risk Parity Portfolio  
   
 <img src="./img/OptimizationPortfoilo.png" width="200px" height="100px" title="Optimization Portfoilo" alt="OptimizationPortfoilo"></img>
 <img src="./img/Max Risk Adjusted Return Portfolio.png" width="200px" height="100px" title="Max Risk Adjusted Return Portfolio" alt="MaxRiskAdjustedReturnPortfolio"></img>
