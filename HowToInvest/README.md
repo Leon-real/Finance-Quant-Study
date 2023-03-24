@@ -11,7 +11,8 @@
     노란 박스 : 채권 부분  
     초록 박스 : 리츠 부분  
     보라 박스 : 금  
-    파란 박스 : 원자재
+    파란 박스 : 원자재  
+    
 <img src="../img/OptimizationPortfoilo.png" width="600px" height="600px" title="Optimization Portfoilo" alt="OptimizationPortfoilo"></img><br/>  
 
 해당 사진에서 확인할 수 있듯, 주식부분은 서로 상관관계가 높고, 채권은 주식과 상관관계가 낮은 것을 확인할 수 있다.
