@@ -50,5 +50,5 @@
 따라서 특정 자산이 포트폴리오의 위험을 대부분 차지하는 문제를 막고, 모든 자산이 동일한 위험기여도를 가지는 포트폴리오가 위험균형 포트폴리오다.  
 
 <img src="../img/Risk Parity Protfolio.png" width="600px" height="600px" title="Risk Parity" alt="riskparity1"></img><br/> 
-<img src="../img/Risk Parity Protfolio1.png" width="600px" height="600px" title="Risk Parity" alt="riskparity2"></img><br/> 
-<img src="../img/Risk Parity Protfolio2.png" width="600px" height="600px" title="Risk Parity" alt="riskparity3"></img><br/> 
+<img src="../img/Risk Parity Portfolio1.png" width="600px" height="600px" title="Risk Parity2" alt="riskparity2"></img><br/> 
+<img src="../img/Risk Parity Protfolio2.png" width="600px" height="600px" title="Risk Parity3" alt="riskparity3"></img><br/> 
