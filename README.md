@@ -19,7 +19,7 @@ Look at the detail [Click](/QuantStrategy/)
 <img src="./img/momentum_k-ratio.png" width="200px" height="100px" title="Summary" alt="momentum"></img>
   
 # HowToInvest Repository
-Look at the detail [Click](/HowToInvest/)
+Look at the detail [Click](/HowToInvest/)  
 0. Optimization Portfolio
 1. Maximum Sharpe Ratio Portfolio
 2. Min Risk Portfolio
