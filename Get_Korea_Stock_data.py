@@ -5,7 +5,7 @@ from pykrx import stock
 
 today_date = "20230324"
 
-stock_list = pd.DataFrame({'종목코드':stock.get_market_ticker_list(market="ALL")})
+stock_list = pd.DataFrame({'종목코드':stock.get_market_ticker_list(market="ALL")}) # KOSPI, KOSDAQ, KONEX, ALL, (default=KOSPI)
 stock_list['종목명'] = stock_list['종목코드'].map(lambda x: stock.get_market_ticker_name(x))
 stock_fud = pd.DataFrame(stock.get_market_fundamental_by_ticker(date=today_date, market="ALL"))
 stock_fud = stock_fud.reset_index()
