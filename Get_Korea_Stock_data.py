@@ -3,7 +3,7 @@ import numpy as np
 from pykrx import stock
 
 
-today_date = "20230324"
+today_date = "20230328"
 
 stock_list = pd.DataFrame({'종목코드':stock.get_market_ticker_list(market="ALL")}) # KOSPI, KOSDAQ, KONEX, ALL, (default=KOSPI)
 stock_list['종목명'] = stock_list['종목코드'].map(lambda x: stock.get_market_ticker_name(x))
