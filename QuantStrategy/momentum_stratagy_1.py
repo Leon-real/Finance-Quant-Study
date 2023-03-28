@@ -11,7 +11,7 @@ import statsmodels.api as sm
 df = pd.read_excel('stocks.xlsx', engine='openpyxl')
 tickers = df['종목코드']
 
-new_df = df[['종목코드','종목명']]
+new_df = df[['종목코드','종목명','종가']]
 new_df.set_index('종목코드', inplace=True) # 인덱스 설정
 
 # 1년 기간동안의 종가 데이터 받기
@@ -55,8 +55,9 @@ for ticker in tickers:
     except:
         res = np.nan
     res_lists.append(res)
-    
+    print(f"{ticker} Saved.")
 temp_df = pd.DataFrame({'종목코드':code_lists, 'return':return_values, 'res':res_lists})
 
 data_bind = new_df.merge(temp_df, how='left', on='종목코드')
 data_bind.to_excel('yearmomentum.xlsx')
+print("Data Save Success.")
