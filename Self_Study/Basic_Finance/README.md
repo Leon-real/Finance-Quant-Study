@@ -19,3 +19,5 @@
     - [이자율, 채권가격 및 듀레이션](./md/bonds_and_interest_ratestt.md)  
     - [신용등급과 크레딧](./md/credit_rating.md)  
 - 파생상품의 이해  
+    - [파생상품의 기초](./md/basic_of_derivatives.md)
+    - [선물과 옵션의 가격 결정](./md/future_andoption_price.md)
